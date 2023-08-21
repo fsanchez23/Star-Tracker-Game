@@ -1,5 +1,5 @@
 # Star-Tracker-Game
-                   Star Tracker: Navigate, Shoot, Survive!
+                                         Star Tracker: Navigate, Shoot, Survive!
 
 Welcome to Star Tracker, an exciting Android video game that
 takes you on a thrilling journey through the depths of space!
